@@ -22,7 +22,7 @@ In order to run that project follow below instructions.
 
 ## Input type
 
-In order to feed algorithms please use input.txt.
+In order to feed algorithms please use input.txt.  
 __Note:__ White spaces and new lines are allowed.
 
 ## Algorithms
