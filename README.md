@@ -1,4 +1,4 @@
-# 2 Exam
+# MaxSubArray
 
 This project contains 3 different algorithms to find maximum sub array.
 
