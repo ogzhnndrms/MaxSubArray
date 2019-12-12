@@ -1,5 +1,6 @@
 import time
 
+
 def brute(a):
     sum_of_nums = 0
     max_num = -999999999999

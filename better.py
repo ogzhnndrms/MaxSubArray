@@ -1,5 +1,6 @@
 import time
 
+
 def better(a):
 
     res = -99999999999999

@@ -20,6 +20,11 @@ In order to run that project follow below instructions.
 * py python main.py
 ```
 
+## Input type
+
+In order to feed algorithms please use input.txt.
+__Note:__ White spaces and new lines are allowed.
+
 ## Algorithms
 
 * The first algorithm(brute.py) uses 2 for loops. The second one is inner loop. So it takes O(n^2) time. It will calculate same values again and again.
